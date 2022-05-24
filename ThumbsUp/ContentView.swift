@@ -8,9 +8,11 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @State var counter = 0
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        ThumbAnimationView(counter: $counter)
     }
 }
 
