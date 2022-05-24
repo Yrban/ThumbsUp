@@ -1,6 +1,8 @@
 # ThumbsUp
 Entry for SwiftUI Series:  Animations
 
+![Thumbs up animation that rotates down and snaps up releasing a balloon and confetti]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Yrban/ThumbsUp/blob/main/Thumbs%20Up.gif)?raw=true)
+
 This is a fun little animation. It starts quietly and then explodes in confetti and a balloon. Using a combination of animations and GoemetryAffects allows this whimsical animation to shine.
 
 The animation starts with a simple gray thumbs up. A tap causes the thumb to slowly rotate down 45 degrees. It then snaps back with a very stiff spring effect. When the thumb snaps back, the confetti explosion occurs. The thumb simultaneously turns gold and a blue baloon is released with the current count. If the count is 0, then only the thumbs up will show. As soon as there is a count, the number is appended to the right of the thumbs up. This does not change the placement of the thumbs up.
