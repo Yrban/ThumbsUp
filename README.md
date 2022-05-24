@@ -1,7 +1,7 @@
 # ThumbsUp
 Entry for SwiftUI Series:  Animations
 
-![Thumbs up animation that rotates down and snaps up releasing a balloon and confetti](https://github.com/Yrban/ThumbsUp/blob/main/Thumbs%20Up.gif)?raw=true)
+![Thumbs up animation that rotates down and snaps up releasing a balloon and confetti](https://github.com/Yrban/ThumbsUp/blob/main/Thumbs%20Up.gif)
 
 This is a fun little animation. It starts quietly and then explodes in confetti and a balloon. Using a combination of animations and GoemetryAffects allows this whimsical animation to shine.
 
